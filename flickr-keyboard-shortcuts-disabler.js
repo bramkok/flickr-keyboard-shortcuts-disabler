@@ -1,12 +1,14 @@
 // ==UserScript==
-// @name         flickr-shortcut-disabler
+// @name         flickr-keyboard-shortcuts-disabler
 // @description  Disable the keyboard shortcuts on the Flickr website
 // @author       Bram Kok (bramkok.com)
-// @version      0.5
+// @version      0.8
 // @run-at       document-end
 // @require      https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.6.15/browser-polyfill.min.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.6.15/browser.min.js
 // @include      *flickr.com*
+// @homepage     https://github.com/bramkok/flickr-keyboard-shortcuts-disabler
+// @supportURL   https://github.com/bramkok/flickr-keyboard-shortcuts-disabler/issues
 // ==/UserScript==
 
 /* jshint ignore:start */
